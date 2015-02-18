@@ -25,7 +25,7 @@ namespace ConsoleApplication1
             baseSalary = salary;
         }
 
-        public string LastName
+        public string FirstName
         {
             get
             {
