@@ -1,0 +1,5 @@
+C:\Users\Reggie\Documents\projects\cs\deitel\chapter4\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Reggie\Documents\projects\cs\deitel\chapter4\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Reggie\Documents\projects\cs\deitel\chapter4\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Reggie\Documents\projects\cs\deitel\chapter4\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Reggie\Documents\projects\cs\deitel\chapter4\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
