@@ -1,5 +1,7 @@
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.CodeAnalysisLog.xml
+C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.lastcodeanalysissucceeded
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
