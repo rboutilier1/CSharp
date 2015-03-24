@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApplication1
-{
+
     class CommissionEmployee : Object
     {
         private string firstName;
@@ -90,4 +85,3 @@ namespace ConsoleApplication1
             return string.Format("{0}: {1} {2}\n{3}: {4}\n{5}: {6:C}\n{7}: {8:F2}", "commission employee", FirstName, LastName, "social security number",SocialSecurityNumber, "gross sales", GrossSales, "commission Rate", CommissionRate);
         }
     }
-}

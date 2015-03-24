@@ -10,3 +10,9 @@ C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\Co
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\Reggie\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Owner\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Owner\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Owner\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Owner\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Owner\Documents\GitHub\CSharp\cs\deitel\chapter11\EmployeeEarnings2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

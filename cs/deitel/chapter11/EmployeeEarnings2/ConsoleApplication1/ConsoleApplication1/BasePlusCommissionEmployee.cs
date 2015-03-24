@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApplication1
-{
+
     class BasePlusCommissionEmployee
     {
         private string firstName;
@@ -103,4 +98,3 @@ namespace ConsoleApplication1
             return string.Format("{0}: {1} {2}\n{3}: {4}\n{5}: {6:C}\n{7}: {8:F2}\n{9}: {10:C}","base-salaried commission employee", firstName, lastName, "social security number", socialSecurityNumber, "gross sales", grossSales, "commission rate", commissionRate, "base salary", baseSalary );
         }
     }
-}
