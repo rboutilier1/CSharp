@@ -14,7 +14,12 @@
             Console.WriteLine("Gross Sales are {0:C}", employee.GrossSales);
             Console.WriteLine("Commission rate is {0:F2}", employee.CommissonRate);
             Console.WriteLine("Earnings are {0:C}", employee.Earnings());
+            Console.WriteLine("Base Salary is {0:C}", employee.BaseSalary);
 
+            employee.BaseSalary = 1000.00M;
+
+            Console.WriteLine("\n{0}:\n\n{1}", "Updated employee information obtained by ToString", employee);
+            Console.WriteLine("earnings: {0:C}", employee.Earnings());
         }
     }
 

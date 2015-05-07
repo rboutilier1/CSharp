@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasePlusCommissionEmployee.cs" />
+    <Compile Include="BasePlusCommissionEmployeeInherits.cs" />
     <Compile Include="BasePlusCommissionEmployeeTest.cs" />
     <Compile Include="CommissionEmployee.cs" />
     <Compile Include="CommissionEmployeeTest.cs" />
