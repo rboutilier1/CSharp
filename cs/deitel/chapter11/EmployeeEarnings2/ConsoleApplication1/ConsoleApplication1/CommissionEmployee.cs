@@ -3,11 +3,11 @@
 
     class CommissionEmployee : Object
     {
-        private string firstName;
-        private string lastName;
-        private string socialSecurityNumber;
-        private decimal grossSales;
-        private decimal commissionRate;
+        protected string firstName;
+        protected string lastName;
+        protected string socialSecurityNumber;
+        protected decimal grossSales;
+        protected decimal commissionRate;
 
         public CommissionEmployee( string first, string last, string ssn, decimal sales, decimal rate )
         {
@@ -75,7 +75,7 @@
                 }
             }
         }
-        public decimal Earnings()
+        public virtual decimal Earnings()
         {
             return commissionRate * grossSales;
         }

@@ -47,7 +47,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>BasePlusCommissionEmployeeTest</StartupObject>
+    <StartupObject>BasePlusCommissionEmployeeInheritsTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="BasePlusCommissionEmployee.cs" />
     <Compile Include="BasePlusCommissionEmployeeInherits.cs" />
+    <Compile Include="BasePlusCommissionEmployeeInheritsTest.cs" />
     <Compile Include="BasePlusCommissionEmployeeTest.cs" />
     <Compile Include="CommissionEmployee.cs" />
     <Compile Include="CommissionEmployeeTest.cs" />
